@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "com.example.branchinternational.app-mergeDebugResources-43:/layout/card_message.xml",
+        "source": "com.example.branchinternational.app-main-46:/layout/card_message.xml"
+    },
+    {
+        "merged": "com.example.branchinternational.app-mergeDebugResources-43:/layout/activity_sending_message.xml",
+        "source": "com.example.branchinternational.app-main-46:/layout/activity_sending_message.xml"
+    },
+    {
+        "merged": "com.example.branchinternational.app-mergeDebugResources-43:/layout/activity_message.xml",
+        "source": "com.example.branchinternational.app-main-46:/layout/activity_message.xml"
+    },
+    {
+        "merged": "com.example.branchinternational.app-mergeDebugResources-43:/layout/activity_login.xml",
+        "source": "com.example.branchinternational.app-main-46:/layout/activity_login.xml"
+    }
+]
