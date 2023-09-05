@@ -4,7 +4,7 @@ Assignment by Branch International (Android Intern)
 
 This app uses [MVVM(Model View View-Model)](https://developer.android.com/topic/architecture#recommended-app-arch) architecture.
 
-APK Link - 
+APK Link - https://github.com/Arpit-Jha/Branch-International/blob/6edfcf8846594f12b10ab2e334a51b82eefb6fc8/app-debug.apk
 
 ![Screenshot_20230905-234530_Branch International](https://github.com/Arpit-Jha/Branch-International/assets/77734479/f58ff534-8b2a-4af1-b342-f5c68788ed66)
 **Login Screen**
