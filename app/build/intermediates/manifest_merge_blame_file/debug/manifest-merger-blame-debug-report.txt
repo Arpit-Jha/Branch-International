@@ -45,93 +45,92 @@
 28-->C:\Users\ASUS\AndroidStudioProjects\BranchInternational\app\src\main\AndroidManifest.xml:14:9-54
 29        android:supportsRtl="true"
 29-->C:\Users\ASUS\AndroidStudioProjects\BranchInternational\app\src\main\AndroidManifest.xml:15:9-35
-30        android:testOnly="true"
-31        android:theme="@style/Theme.BranchInternational" >
-31-->C:\Users\ASUS\AndroidStudioProjects\BranchInternational\app\src\main\AndroidManifest.xml:16:9-57
-32        <activity
-32-->C:\Users\ASUS\AndroidStudioProjects\BranchInternational\app\src\main\AndroidManifest.xml:18:9-20:40
-33            android:name="com.example.branchinternational.View.SendingMessageActivity"
-33-->C:\Users\ASUS\AndroidStudioProjects\BranchInternational\app\src\main\AndroidManifest.xml:19:13-56
-34            android:exported="false" />
-34-->C:\Users\ASUS\AndroidStudioProjects\BranchInternational\app\src\main\AndroidManifest.xml:20:13-37
-35        <activity
-35-->C:\Users\ASUS\AndroidStudioProjects\BranchInternational\app\src\main\AndroidManifest.xml:21:9-23:40
-36            android:name="com.example.branchinternational.View.MessageActivity"
-36-->C:\Users\ASUS\AndroidStudioProjects\BranchInternational\app\src\main\AndroidManifest.xml:22:13-49
-37            android:exported="false" />
-37-->C:\Users\ASUS\AndroidStudioProjects\BranchInternational\app\src\main\AndroidManifest.xml:23:13-37
-38        <activity
-38-->C:\Users\ASUS\AndroidStudioProjects\BranchInternational\app\src\main\AndroidManifest.xml:24:9-32:20
-39            android:name="com.example.branchinternational.View.LoginActivity"
-39-->C:\Users\ASUS\AndroidStudioProjects\BranchInternational\app\src\main\AndroidManifest.xml:25:13-47
-40            android:exported="true" >
-40-->C:\Users\ASUS\AndroidStudioProjects\BranchInternational\app\src\main\AndroidManifest.xml:26:13-36
-41            <intent-filter>
-41-->C:\Users\ASUS\AndroidStudioProjects\BranchInternational\app\src\main\AndroidManifest.xml:27:13-31:29
-42                <action android:name="android.intent.action.MAIN" />
-42-->C:\Users\ASUS\AndroidStudioProjects\BranchInternational\app\src\main\AndroidManifest.xml:28:17-69
-42-->C:\Users\ASUS\AndroidStudioProjects\BranchInternational\app\src\main\AndroidManifest.xml:28:25-66
-43
-44                <category android:name="android.intent.category.LAUNCHER" />
-44-->C:\Users\ASUS\AndroidStudioProjects\BranchInternational\app\src\main\AndroidManifest.xml:30:17-77
-44-->C:\Users\ASUS\AndroidStudioProjects\BranchInternational\app\src\main\AndroidManifest.xml:30:27-74
-45            </intent-filter>
-46        </activity>
-47
-48        <meta-data
-48-->C:\Users\ASUS\AndroidStudioProjects\BranchInternational\app\src\main\AndroidManifest.xml:34:9-36:57
-49            android:name="preloaded_fonts"
-49-->C:\Users\ASUS\AndroidStudioProjects\BranchInternational\app\src\main\AndroidManifest.xml:35:13-43
-50            android:resource="@array/preloaded_fonts" />
-50-->C:\Users\ASUS\AndroidStudioProjects\BranchInternational\app\src\main\AndroidManifest.xml:36:13-54
-51
-52        <provider
-52-->[androidx.emoji2:emoji2:1.2.0] C:\Users\ASUS\.gradle\caches\transforms-3\9eaa5499e5917bf161e9e1c1138b7d31\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
-53            android:name="androidx.startup.InitializationProvider"
-53-->[androidx.emoji2:emoji2:1.2.0] C:\Users\ASUS\.gradle\caches\transforms-3\9eaa5499e5917bf161e9e1c1138b7d31\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:25:13-67
-54            android:authorities="com.example.branchinternational.androidx-startup"
-54-->[androidx.emoji2:emoji2:1.2.0] C:\Users\ASUS\.gradle\caches\transforms-3\9eaa5499e5917bf161e9e1c1138b7d31\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:26:13-68
-55            android:exported="false" >
-55-->[androidx.emoji2:emoji2:1.2.0] C:\Users\ASUS\.gradle\caches\transforms-3\9eaa5499e5917bf161e9e1c1138b7d31\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:27:13-37
-56            <meta-data
-56-->[androidx.emoji2:emoji2:1.2.0] C:\Users\ASUS\.gradle\caches\transforms-3\9eaa5499e5917bf161e9e1c1138b7d31\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
-57                android:name="androidx.emoji2.text.EmojiCompatInitializer"
-57-->[androidx.emoji2:emoji2:1.2.0] C:\Users\ASUS\.gradle\caches\transforms-3\9eaa5499e5917bf161e9e1c1138b7d31\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:30:17-75
-58                android:value="androidx.startup" />
-58-->[androidx.emoji2:emoji2:1.2.0] C:\Users\ASUS\.gradle\caches\transforms-3\9eaa5499e5917bf161e9e1c1138b7d31\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:31:17-49
-59            <meta-data
-59-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\ASUS\.gradle\caches\transforms-3\afbe6f79812804f6bb7e1730342d066f\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
-60                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
-60-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\ASUS\.gradle\caches\transforms-3\afbe6f79812804f6bb7e1730342d066f\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
-61                android:value="androidx.startup" />
-61-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\ASUS\.gradle\caches\transforms-3\afbe6f79812804f6bb7e1730342d066f\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
-62            <meta-data
-62-->[androidx.profileinstaller:profileinstaller:1.0.1] C:\Users\ASUS\.gradle\caches\transforms-3\ae6cbf80293878333e1a4c9131ffd82b\transformed\jetified-profileinstaller-1.0.1\AndroidManifest.xml:31:13-33:52
-63                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
-63-->[androidx.profileinstaller:profileinstaller:1.0.1] C:\Users\ASUS\.gradle\caches\transforms-3\ae6cbf80293878333e1a4c9131ffd82b\transformed\jetified-profileinstaller-1.0.1\AndroidManifest.xml:32:17-85
-64                android:value="androidx.startup" />
-64-->[androidx.profileinstaller:profileinstaller:1.0.1] C:\Users\ASUS\.gradle\caches\transforms-3\ae6cbf80293878333e1a4c9131ffd82b\transformed\jetified-profileinstaller-1.0.1\AndroidManifest.xml:33:17-49
-65        </provider>
-66
-67        <receiver
-67-->[androidx.profileinstaller:profileinstaller:1.0.1] C:\Users\ASUS\.gradle\caches\transforms-3\ae6cbf80293878333e1a4c9131ffd82b\transformed\jetified-profileinstaller-1.0.1\AndroidManifest.xml:36:9-45:20
-68            android:name="androidx.profileinstaller.ProfileInstallReceiver"
-68-->[androidx.profileinstaller:profileinstaller:1.0.1] C:\Users\ASUS\.gradle\caches\transforms-3\ae6cbf80293878333e1a4c9131ffd82b\transformed\jetified-profileinstaller-1.0.1\AndroidManifest.xml:37:13-76
-69            android:directBootAware="false"
-69-->[androidx.profileinstaller:profileinstaller:1.0.1] C:\Users\ASUS\.gradle\caches\transforms-3\ae6cbf80293878333e1a4c9131ffd82b\transformed\jetified-profileinstaller-1.0.1\AndroidManifest.xml:38:13-44
-70            android:enabled="true"
-70-->[androidx.profileinstaller:profileinstaller:1.0.1] C:\Users\ASUS\.gradle\caches\transforms-3\ae6cbf80293878333e1a4c9131ffd82b\transformed\jetified-profileinstaller-1.0.1\AndroidManifest.xml:39:13-35
-71            android:exported="true"
-71-->[androidx.profileinstaller:profileinstaller:1.0.1] C:\Users\ASUS\.gradle\caches\transforms-3\ae6cbf80293878333e1a4c9131ffd82b\transformed\jetified-profileinstaller-1.0.1\AndroidManifest.xml:40:13-36
-72            android:permission="android.permission.DUMP" >
-72-->[androidx.profileinstaller:profileinstaller:1.0.1] C:\Users\ASUS\.gradle\caches\transforms-3\ae6cbf80293878333e1a4c9131ffd82b\transformed\jetified-profileinstaller-1.0.1\AndroidManifest.xml:41:13-57
-73            <intent-filter>
-73-->[androidx.profileinstaller:profileinstaller:1.0.1] C:\Users\ASUS\.gradle\caches\transforms-3\ae6cbf80293878333e1a4c9131ffd82b\transformed\jetified-profileinstaller-1.0.1\AndroidManifest.xml:42:13-44:29
-74                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
-74-->[androidx.profileinstaller:profileinstaller:1.0.1] C:\Users\ASUS\.gradle\caches\transforms-3\ae6cbf80293878333e1a4c9131ffd82b\transformed\jetified-profileinstaller-1.0.1\AndroidManifest.xml:43:17-91
-74-->[androidx.profileinstaller:profileinstaller:1.0.1] C:\Users\ASUS\.gradle\caches\transforms-3\ae6cbf80293878333e1a4c9131ffd82b\transformed\jetified-profileinstaller-1.0.1\AndroidManifest.xml:43:25-88
-75            </intent-filter>
-76        </receiver>
-77    </application>
-78
-79</manifest>
+30        android:theme="@style/Theme.BranchInternational" >
+30-->C:\Users\ASUS\AndroidStudioProjects\BranchInternational\app\src\main\AndroidManifest.xml:16:9-57
+31        <activity
+31-->C:\Users\ASUS\AndroidStudioProjects\BranchInternational\app\src\main\AndroidManifest.xml:18:9-20:40
+32            android:name="com.example.branchinternational.View.SendingMessageActivity"
+32-->C:\Users\ASUS\AndroidStudioProjects\BranchInternational\app\src\main\AndroidManifest.xml:19:13-56
+33            android:exported="false" />
+33-->C:\Users\ASUS\AndroidStudioProjects\BranchInternational\app\src\main\AndroidManifest.xml:20:13-37
+34        <activity
+34-->C:\Users\ASUS\AndroidStudioProjects\BranchInternational\app\src\main\AndroidManifest.xml:21:9-23:40
+35            android:name="com.example.branchinternational.View.MessageActivity"
+35-->C:\Users\ASUS\AndroidStudioProjects\BranchInternational\app\src\main\AndroidManifest.xml:22:13-49
+36            android:exported="false" />
+36-->C:\Users\ASUS\AndroidStudioProjects\BranchInternational\app\src\main\AndroidManifest.xml:23:13-37
+37        <activity
+37-->C:\Users\ASUS\AndroidStudioProjects\BranchInternational\app\src\main\AndroidManifest.xml:24:9-32:20
+38            android:name="com.example.branchinternational.View.LoginActivity"
+38-->C:\Users\ASUS\AndroidStudioProjects\BranchInternational\app\src\main\AndroidManifest.xml:25:13-47
+39            android:exported="true" >
+39-->C:\Users\ASUS\AndroidStudioProjects\BranchInternational\app\src\main\AndroidManifest.xml:26:13-36
+40            <intent-filter>
+40-->C:\Users\ASUS\AndroidStudioProjects\BranchInternational\app\src\main\AndroidManifest.xml:27:13-31:29
+41                <action android:name="android.intent.action.MAIN" />
+41-->C:\Users\ASUS\AndroidStudioProjects\BranchInternational\app\src\main\AndroidManifest.xml:28:17-69
+41-->C:\Users\ASUS\AndroidStudioProjects\BranchInternational\app\src\main\AndroidManifest.xml:28:25-66
+42
+43                <category android:name="android.intent.category.LAUNCHER" />
+43-->C:\Users\ASUS\AndroidStudioProjects\BranchInternational\app\src\main\AndroidManifest.xml:30:17-77
+43-->C:\Users\ASUS\AndroidStudioProjects\BranchInternational\app\src\main\AndroidManifest.xml:30:27-74
+44            </intent-filter>
+45        </activity>
+46
+47        <meta-data
+47-->C:\Users\ASUS\AndroidStudioProjects\BranchInternational\app\src\main\AndroidManifest.xml:34:9-36:57
+48            android:name="preloaded_fonts"
+48-->C:\Users\ASUS\AndroidStudioProjects\BranchInternational\app\src\main\AndroidManifest.xml:35:13-43
+49            android:resource="@array/preloaded_fonts" />
+49-->C:\Users\ASUS\AndroidStudioProjects\BranchInternational\app\src\main\AndroidManifest.xml:36:13-54
+50
+51        <provider
+51-->[androidx.emoji2:emoji2:1.2.0] C:\Users\ASUS\.gradle\caches\transforms-3\9eaa5499e5917bf161e9e1c1138b7d31\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+52            android:name="androidx.startup.InitializationProvider"
+52-->[androidx.emoji2:emoji2:1.2.0] C:\Users\ASUS\.gradle\caches\transforms-3\9eaa5499e5917bf161e9e1c1138b7d31\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:25:13-67
+53            android:authorities="com.example.branchinternational.androidx-startup"
+53-->[androidx.emoji2:emoji2:1.2.0] C:\Users\ASUS\.gradle\caches\transforms-3\9eaa5499e5917bf161e9e1c1138b7d31\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:26:13-68
+54            android:exported="false" >
+54-->[androidx.emoji2:emoji2:1.2.0] C:\Users\ASUS\.gradle\caches\transforms-3\9eaa5499e5917bf161e9e1c1138b7d31\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:27:13-37
+55            <meta-data
+55-->[androidx.emoji2:emoji2:1.2.0] C:\Users\ASUS\.gradle\caches\transforms-3\9eaa5499e5917bf161e9e1c1138b7d31\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+56                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+56-->[androidx.emoji2:emoji2:1.2.0] C:\Users\ASUS\.gradle\caches\transforms-3\9eaa5499e5917bf161e9e1c1138b7d31\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:30:17-75
+57                android:value="androidx.startup" />
+57-->[androidx.emoji2:emoji2:1.2.0] C:\Users\ASUS\.gradle\caches\transforms-3\9eaa5499e5917bf161e9e1c1138b7d31\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:31:17-49
+58            <meta-data
+58-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\ASUS\.gradle\caches\transforms-3\afbe6f79812804f6bb7e1730342d066f\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+59                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+59-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\ASUS\.gradle\caches\transforms-3\afbe6f79812804f6bb7e1730342d066f\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
+60                android:value="androidx.startup" />
+60-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\ASUS\.gradle\caches\transforms-3\afbe6f79812804f6bb7e1730342d066f\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+61            <meta-data
+61-->[androidx.profileinstaller:profileinstaller:1.0.1] C:\Users\ASUS\.gradle\caches\transforms-3\ae6cbf80293878333e1a4c9131ffd82b\transformed\jetified-profileinstaller-1.0.1\AndroidManifest.xml:31:13-33:52
+62                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+62-->[androidx.profileinstaller:profileinstaller:1.0.1] C:\Users\ASUS\.gradle\caches\transforms-3\ae6cbf80293878333e1a4c9131ffd82b\transformed\jetified-profileinstaller-1.0.1\AndroidManifest.xml:32:17-85
+63                android:value="androidx.startup" />
+63-->[androidx.profileinstaller:profileinstaller:1.0.1] C:\Users\ASUS\.gradle\caches\transforms-3\ae6cbf80293878333e1a4c9131ffd82b\transformed\jetified-profileinstaller-1.0.1\AndroidManifest.xml:33:17-49
+64        </provider>
+65
+66        <receiver
+66-->[androidx.profileinstaller:profileinstaller:1.0.1] C:\Users\ASUS\.gradle\caches\transforms-3\ae6cbf80293878333e1a4c9131ffd82b\transformed\jetified-profileinstaller-1.0.1\AndroidManifest.xml:36:9-45:20
+67            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+67-->[androidx.profileinstaller:profileinstaller:1.0.1] C:\Users\ASUS\.gradle\caches\transforms-3\ae6cbf80293878333e1a4c9131ffd82b\transformed\jetified-profileinstaller-1.0.1\AndroidManifest.xml:37:13-76
+68            android:directBootAware="false"
+68-->[androidx.profileinstaller:profileinstaller:1.0.1] C:\Users\ASUS\.gradle\caches\transforms-3\ae6cbf80293878333e1a4c9131ffd82b\transformed\jetified-profileinstaller-1.0.1\AndroidManifest.xml:38:13-44
+69            android:enabled="true"
+69-->[androidx.profileinstaller:profileinstaller:1.0.1] C:\Users\ASUS\.gradle\caches\transforms-3\ae6cbf80293878333e1a4c9131ffd82b\transformed\jetified-profileinstaller-1.0.1\AndroidManifest.xml:39:13-35
+70            android:exported="true"
+70-->[androidx.profileinstaller:profileinstaller:1.0.1] C:\Users\ASUS\.gradle\caches\transforms-3\ae6cbf80293878333e1a4c9131ffd82b\transformed\jetified-profileinstaller-1.0.1\AndroidManifest.xml:40:13-36
+71            android:permission="android.permission.DUMP" >
+71-->[androidx.profileinstaller:profileinstaller:1.0.1] C:\Users\ASUS\.gradle\caches\transforms-3\ae6cbf80293878333e1a4c9131ffd82b\transformed\jetified-profileinstaller-1.0.1\AndroidManifest.xml:41:13-57
+72            <intent-filter>
+72-->[androidx.profileinstaller:profileinstaller:1.0.1] C:\Users\ASUS\.gradle\caches\transforms-3\ae6cbf80293878333e1a4c9131ffd82b\transformed\jetified-profileinstaller-1.0.1\AndroidManifest.xml:42:13-44:29
+73                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+73-->[androidx.profileinstaller:profileinstaller:1.0.1] C:\Users\ASUS\.gradle\caches\transforms-3\ae6cbf80293878333e1a4c9131ffd82b\transformed\jetified-profileinstaller-1.0.1\AndroidManifest.xml:43:17-91
+73-->[androidx.profileinstaller:profileinstaller:1.0.1] C:\Users\ASUS\.gradle\caches\transforms-3\ae6cbf80293878333e1a4c9131ffd82b\transformed\jetified-profileinstaller-1.0.1\AndroidManifest.xml:43:25-88
+74            </intent-filter>
+75        </receiver>
+76    </application>
+77
+78</manifest>
